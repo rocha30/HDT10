@@ -1,0 +1,10 @@
+CiudaddeGuatemala Quetzaltenango 205
+Huehuetenango Quetzaltenango 90
+Cobán CiudaddeGuatemala 219
+PuertoBarrios CiudaddeGuatemala 297
+Retalhuleu Quetzaltenango 55
+Chimaltenango CiudaddeGuatemala 54
+Antigua Chimaltenango 28
+SanMarcos Quetzaltenango 52
+Esquipulas Zacapa 132
+Jutiapa CiudaddeGuatemala 124

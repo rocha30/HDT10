@@ -1,0 +1,49 @@
+
+±
+java:S1319
+"iThe type of "cityIndexMap" should be an interface such as "Map" rather than the implementation "HashMap".(±¯õ˜ûÿÿÿÿ8åÒ¡öù1J$8ffd13f5-6e77-4abd-968c-4ec7e94ba93c
+¬
+java:S1319"iThe type of "indexCityMap" should be an interface such as "Map" rather than the implementation "HashMap".(‚Âë8çÒ¡öù1J$011b859d-9b0f-4641-bd82-0c72c3996669
+”
+java:S1104	"QMake grafo a static final constant or non-public and provide accessors if needed.(Æ”ÂÈ8êÒ¡öù1J$bca128e1-49da-4685-ac5d-69571ac1f8f9
+ 
+java:S1104
+"XMake cityIndexMap a static final constant or non-public and provide accessors if needed.(±¯õ˜ûÿÿÿÿ8êÒ¡öù1J$165b0c85-6084-4ed1-b090-04461e445f17
+›
+java:S1104"XMake indexCityMap a static final constant or non-public and provide accessors if needed.(‚Âë8êÒ¡öù1J$1774f576-11c0-4a8b-9fb4-4aa602ad6c79
+n
+java:S1444	"+Make this "public static grafo" field final(Æ”ÂÈ8ëÒ¡öù1J$3324b128-29d1-45f3-b8e5-502834c3ce7e
+z
+java:S1444
+"2Make this "public static cityIndexMap" field final(±¯õ˜ûÿÿÿÿ8ìÒ¡öù1J$00255732-43f6-4a36-b5e2-f318f852a5f2
+u
+java:S1444"2Make this "public static indexCityMap" field final(‚Âë8ìÒ¡öù1J$002edff6-292d-484f-80c2-1bc62a2fc339
+‹
+java:S3824#"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(„òåí8¶Ó¡öù1J$001bc682-9aa7-43af-906b-a1cbce5a527c
+
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(ÓØ®ñûÿÿÿÿ8¶Ó¡öù1J$a93a8d48-51dd-41b2-975e-13eb54efa6e7
+w
+java:S1172"/Remove this unused method parameter "filePath".(¾ÚøŒÿÿÿÿÿ8»Ó¡öù1J$236536f2-0d56-4cd7-a60d-97fc0b641810
+‰
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÊÀ°¢şÿÿÿÿ8¾Ó¡öù1J$70aa1a55-35c7-4068-9dc2-86b9b8ca4390
+j
+java:S2386"'Make member "cityIndexMap" "protected".(¿Óİë8ÁÓ¡öù1J$e73e88de-7284-438d-83d1-859590bc7d4e
+j
+java:S2386"'Make member "indexCityMap" "protected".(Æ’––8ÂÓ¡öù1J$8e7043f6-318b-4fdb-8414-006354a0d399
+r	java:S1068"+Replace this use of System.out by a logger.(ÂÅî¬øÿÿÿÿ8ÊÓ¡öù1J$bd1e0bc6-4813-4fda-bda7-eb2adfd99bd7
+r	java:S106="+Replace this use of System.out by a logger.(òÎ²ºüÿÿÿÿ8ËÓ¡öù1J$20f0962a-e3c1-48a6-a58b-a593012413f2
+r	java:S106>"+Replace this use of System.out by a logger.(–¾õ“ıÿÿÿÿ8ËÓ¡öù1J$5ace886e-4898-4169-8603-9d802a01aea9
+r	java:S106?"+Replace this use of System.out by a logger.(Ï­×Ñûÿÿÿÿ8ÌÓ¡öù1J$ff611594-8434-468a-a8e8-b5e06a353bf6
+m	java:S106A"+Replace this use of System.out by a logger.(ÀªŞ¿8ÌÓ¡öù1J$64d9beb0-37bb-4eeb-889c-366ba670f655
+m	java:S106C"+Replace this use of System.out by a logger.(¡¿êŠ8ÌÓ¡öù1J$41f454fa-1454-4f7d-baf3-6a3e1dc292a0
+m	java:S106H"+Replace this use of System.out by a logger.(º“ŒÎ8ÍÓ¡öù1J$ca22e399-392e-4560-9756-682fc8f6c7f3
+m	java:S106L"+Replace this use of System.out by a logger.(·ƒé°8ÎÓ¡öù1J$58fa8da9-3493-44b3-8c38-f0e90534ebed
+r	java:S106P"+Replace this use of System.out by a logger.(ËĞ…¡ıÿÿÿÿ8ÏÓ¡öù1J$86fe8a5b-b12e-4a15-a91d-dcbc8049e1ce
+m	java:S106T"+Replace this use of System.out by a logger.(ÀªŞ¿8ĞÓ¡öù1J$adf7ced9-83d6-4261-ba5f-2e3970be0d3d
+m	java:S106V"+Replace this use of System.out by a logger.(¡¿êŠ8ÑÓ¡öù1J$cbb19da2-a60d-4747-958b-dc43941c613d
+r	java:S106Y"+Replace this use of System.out by a logger.(±œàìøÿÿÿÿ8ÓÓ¡öù1J$08b8f0a6-2ff2-4591-9b1f-97332c6cb1f1
+r	java:S106a"+Replace this use of System.out by a logger.(ê©èÑüÿÿÿÿ8ÓÓ¡öù1J$247fe174-854e-449a-8487-cb0e6097adee
+r	java:S106c"+Replace this use of System.out by a logger.(Æ´ïÄüÿÿÿÿ8ÔÓ¡öù1J$59a44790-7bba-4739-a74b-b5cbbfc211fb
+m	java:S106d"+Replace this use of System.out by a logger.(úèû¿8ÔÓ¡öù1J$d94e6839-2192-4347-94e5-0de9797bc70c
+r	java:S106f"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÔÓ¡öù1J$235cfd99-27bd-4247-861a-9e139d66c496
+m	java:S106l"+Replace this use of System.out by a logger.(©ü¿«8ÕÓ¡öù1J$13eb57cb-5b82-41f7-bf9a-4e913a04bebd
