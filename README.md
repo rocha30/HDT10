@@ -9,13 +9,12 @@ El proyecto consta de los siguientes archivos y clases:
 - `App.java`: La clase principal que inicia la aplicación y maneja la interacción con el usuario.
 - `Controller.java`: Clase que actúa como controlador principal del sistema, gestionando la carga del grafo, cálculos y modificaciones.
 - `Grafo.java`: Clase que representa el grafo y contiene la implementación del algoritmo de Floyd-Warshall.
-- `GraphLoader.java`: Clase encargada de cargar el grafo desde un archivo de texto y gestionar las operaciones de modificación.
 - `guategrafo.txt`: Archivo de texto que contiene la información de las conexiones entre ciudades.
 
 ## Requisitos
 
 - JDK 8 o superior.
-- PlantUML para generar diagramas UML (opcional).
+- junit utilizado 4.12
 
 ## Cómo Ejecutar
 
